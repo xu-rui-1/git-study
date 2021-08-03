@@ -1,0 +1,5 @@
+/home/xurui/Desktop/git-study/build/CMakeFiles/rebuild_cache.dir
+/home/xurui/Desktop/git-study/build/CMakeFiles/edit_cache.dir
+/home/xurui/Desktop/git-study/build/src/CMakeFiles/rebuild_cache.dir
+/home/xurui/Desktop/git-study/build/src/CMakeFiles/edit_cache.dir
+/home/xurui/Desktop/git-study/build/src/CMakeFiles/main.out.dir
