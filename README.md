@@ -1,2 +1,1 @@
-# git-study
-study and test
+this is a test.
